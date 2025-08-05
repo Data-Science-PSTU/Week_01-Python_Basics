@@ -32,11 +32,11 @@ Week_01-Python_Basics/
 | 2 | **Clone** your fork | `git clone https://github.com/YOUR_USERNAME/Week_01-Python_Basics.git` |
 | 3 | **Create & switch** to the `submissions` branch | `git checkout -b submissions` |
 | 4 | **Solve** the notebook | Open `python_exercises_easy.ipynb` in Jupyter / VS Code |
-| 5 | **Rename** the file | `mv python_exercises_easy.ipynb <YOUR_STUDENT_ID>.ipynb` (e.g., `2102024.ipynb`) |
+| 5 | **Duplicate** the file with your ID | `cp python_exercises_easy.ipynb <YOUR_STUDENT_ID>.ipynb` (e.g., `2102024.ipynb`) |
 | 6 | **Add, commit, push** | <pre>git add .<br>git commit -m "Add Week 01 submission – <YOUR_STUDENT_ID>"<br>git push origin submissions</pre> |
 | 7 | **Open a Pull Request** | From your fork → upstream `submissions` branch |
 
-> 💡 **Tip:** Add a short summary inside the PR description explaining what you learned this week!
+> 💡 **Tip:** Add a short summary inside the PR description explaining what you learned this week! 
 
 ## ⚠️ Common Pitfalls to Avoid
 
